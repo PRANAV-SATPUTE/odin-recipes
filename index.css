@@ -1,0 +1,46 @@
+    .recipe-card{
+        background-color: rgb(200, 237, 252);
+
+    }
+h1{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+    font-size:45px;
+    color:burlywood;
+    
+}
+h2{
+    text-align:center;
+    font-size:55px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(62, 172, 236);
+
+
+}
+h3{
+    text-align:center;
+    color:brown;
+
+
+}
+
+    .column {
+  float: left;
+  width: 32%;
+  padding: 7px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+img{
+    width:500px;
+    height:auto;
+}
+#recipes{
+    background-color: hsl(120, 84%, 71%);
+}

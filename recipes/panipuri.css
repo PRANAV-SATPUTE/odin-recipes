@@ -1,0 +1,28 @@
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+}
+h1{
+    text-align: center;
+    color:bisque;
+    font-family:'Times New Roman', Times, serif ;
+    margin:20px;
+    padding:10px;
+
+}
+h3,h4{
+    font-weight:bold;
+}
+body{
+    text-align: center;
+    list-style-position:inside;
+    background-color: rgb(59, 59, 59);
+    margin:auto;
+    color:bisque;
+}
+img{
+    width: 400px;
+    height:700px;
+}

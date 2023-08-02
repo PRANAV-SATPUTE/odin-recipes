@@ -2,12 +2,17 @@
         background-color: rgb(200, 237, 252);
 
     }
+    *{
+        border:2px solid red;
+    }
 h1{
     text-align:center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight:bold;
     font-size:45px;
     color:burlywood;
+    margin:20px;
+    padding:10px;
     
 }
 h2{
@@ -15,6 +20,8 @@ h2{
     font-size:55px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:rgb(62, 172, 236);
+    margin:20px;
+    padding:10px;
 
 
 }

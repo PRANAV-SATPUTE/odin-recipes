@@ -1,7 +1,11 @@
     .recipe-card{
         background-color: rgb(200, 237, 252);
+        
 
     }
+    *{
+    box-sizing:border-box;
+}
     
 h1{
     text-align:center;
@@ -31,7 +35,7 @@ h3{
 }
 
     .column {
-  float: left;
+  float: right;
   width: 32%;
   padding: 7px;
 }

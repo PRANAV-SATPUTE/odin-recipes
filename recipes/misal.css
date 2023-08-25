@@ -4,20 +4,15 @@
     margin-right:auto;
     width:50%;
 }
-h1{
+h1,h3{
     text-align: center;
     color:bisque;
     font-weight:bold;   
 }
-h3{
-    color:bisque;
-    font-weight:bold;
-    text-align: center;
-    
 
-}
 body{
     text-align: center;
+   
     list-style-position:inside;
     background-color: rgb(30, 33, 36);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;

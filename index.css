@@ -1,4 +1,4 @@
-    .recipe-card{
+       .recipe-card{
         background-color: rgb(200, 237, 252);
         
 
@@ -34,10 +34,11 @@ h3{
 
 }
 
-    .column {
+   .column {
   float: right;
   width: 32%;
   padding: 7px;
+  flex-wrap:wrap;
 }
 
 /* Clear floats after image containers */

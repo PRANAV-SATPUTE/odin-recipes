@@ -38,7 +38,7 @@ h3{
   float: right;
   width: 32%;
   padding: 7px;
-  flex-wrap:wrap;
+  
 }
 
 /* Clear floats after image containers */
@@ -53,4 +53,8 @@ img{
 }
 #recipes{
     background-color: hsl(120, 84%, 71%);
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
 }
